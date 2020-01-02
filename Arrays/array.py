@@ -6,7 +6,7 @@ print("Array is: ", arr)
 # --------------- Random Indexing -> O(1) complexity ----------------
 # ----------- if we know index of item to get from array ------------
 
-print("Second Element of Array is: ", array[1])
+print("Second Element of Array is: ", arr[1])
 
 # ------------------- Insert item at given index --------------------
 
