@@ -11,7 +11,7 @@ def FibRec(n):
 def main():
     fib_seq = []
     n = int(input("Choose an integer: "))
-    print("Fibonacci index from 0 to", n, "is:")
+    print("Fibonacci from index 0 to %d is: " % n)
     for i in range(0,n+1):
         fib_seq.append(FibRec(i))
     print(fib_seq)
