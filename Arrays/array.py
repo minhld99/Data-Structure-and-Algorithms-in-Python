@@ -1,11 +1,12 @@
 # ---------------------------- Arrays -------------------------------
 
 arr = [1,2,3,4,5]
+print("Array is: ", arr)
 
 # --------------- Random Indexing -> O(1) complexity ----------------
 # ----------- if we know index of item to get from array ------------
 
-print("Array is: ", arr)
+print("Second Element of Array is: ", array[1])
 
 # ------------------- Insert item at given index --------------------
 
